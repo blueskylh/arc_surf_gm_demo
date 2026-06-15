@@ -25,7 +25,7 @@
 
 ## 🚀 Demo
 
-**Live on Arc Testnet:** [http://47.83.142.171:4173](http://47.83.142.171:4173)
+**Live on Arc Testnet:** [https://arc-surf-19d0be.surf.computer](https://arc-surf-19d0be.surf.computer)
 
 ## 📸 Screenshots
 
