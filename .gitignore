@@ -1,0 +1,72 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Testing
+coverage/
+
+# Production
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.temp
+
+# Lock files (optional - uncomment if you prefer to track them)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+
+# Build cache
+.vite/
+.cache/
+
+# Deployment
+.vercel/
+.netlify/
+
+# Misc
+*.pem
+*.key
+*.crt
+
+# Project specific
+资料/
+设计方案.md
+deploy.sh
+fix-server.sh
+simple-server.js
+start-server.sh
+ecosystem.config.cjs
+frontend/bun.lock
+backend/bun.lock
